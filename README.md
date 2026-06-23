@@ -47,18 +47,19 @@ A passionate **BCA graduate** on a mission to master software development throug
 ## 🛠️ Tech Stack
 
 ### Languages
-![Python]
-![C]
-![JavaScript]
+Python
+C
+JavaScript
 
 ### Web Technologies
-![HTML5]
-![CSS3]
+HTML5
+CSS3
 
 ### Databases & Tools
-![MySQL]
-![Git]
-![GitHub] 
+MySQL
+Git
+Github
+
 ---
 
 ## 🌱 Learning Philosophy
