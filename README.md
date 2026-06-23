@@ -43,14 +43,14 @@ A passionate **BCA graduate** on a mission to master software development throug
 - **Tech Stack:** JavaScript, Html,Css,Php
 - 
 ### 🌸 HerCycle
-A mobile application designed to support women's health and cycle tracking
+> *A mobile application designed to support women's health and cycle tracking*
 
-Menstrual cycle tracking and monitoring
-Symptom logging and health records
-Diet and fitness recommendations
-Personalized health dashboard
+- Menstrual cycle tracking and monitoring
+- Symptom logging and health records
+- Diet and fitness recommendations
+- Personalized health dashboard
 
-Tech Stack: Java, Android Studio, SQLite, XML
+- **Tech Stack:** Java, Android Studio, SQLite, XML
 
 ---
 
