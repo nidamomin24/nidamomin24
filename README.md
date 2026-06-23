@@ -40,7 +40,17 @@ A passionate **BCA graduate** on a mission to master software development throug
 - Pet profiles with search and filter functionality
 - Adoption application workflow
 - Admin dashboard for managing listings
-- **Tech Stack:** JavaScript, Node.js, MongoDB, Express
+- **Tech Stack:** JavaScript, Html,Css,Php
+- 
+###🌸 HerCycle
+A mobile application designed to support women's health and cycle tracking
+
+Menstrual cycle tracking and monitoring
+Symptom logging and health records
+Diet and fitness recommendations
+Personalized health dashboard
+
+Tech Stack: Java, Android Studio, SQLite, XML
 
 ---
 
